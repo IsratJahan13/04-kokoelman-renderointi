@@ -3,7 +3,7 @@
     {
       "id": "1",
       "content": "HTML is easy",
-      "important": true
+      "important": false
     },
     {
       "id": "2",
@@ -16,7 +16,7 @@
       "important": true
     },
     {
-      "id": "3528",
+      "id": "4",
       "content": "CSS is interesting",
       "important": true
     },
@@ -28,7 +28,7 @@
     {
       "id": "9b7d",
       "content": "javascript is hard",
-      "important": true
+      "important": false
     }
   ]
 }
