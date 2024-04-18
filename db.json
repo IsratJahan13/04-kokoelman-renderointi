@@ -24,6 +24,11 @@
       "id": "5bd5",
       "content": "Post is used to create new resources",
       "important": true
+    },
+    {
+      "id": "9b7d",
+      "content": "javascript is hard",
+      "important": true
     }
   ]
 }
